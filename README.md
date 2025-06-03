@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aadidev Soni</h1>
-<h3 align="center">I am a passionate Game Developer and a student of IIITM Gwalior</h3>
+<h1 align="center">Hey 👋, I'm Aadidev Soni</h1>
+<h3 align="center">I am a passionate Web & Game Developer and a student of IIITM Gwalior</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadidevsoni&label=Profile%20views&color=0e75b6&style=flat" alt="aadidevsoni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadidevsoni" alt="aadidevsoni" /></a> </p>
 
-- 🔭 I’m currently working on [Smart-Gloves-App](https://github.com/AadidevSoni/Smart-Gloves-App)
+- 🔭 I’m currently working on [Web Development](https://github.com/AadidevSoni/Full-Stack-Web-Development)
 
-- 🌱 I’m currently learning **C# Unity Game Engine**
+- 🌱 I’m currently learning FULL STACK WEB DEVELOPMENT
 
 - 👨‍💻 All of my projects are available at [https://github.com/AadidevSoni?tab=repositories](https://github.com/AadidevSoni?tab=repositories)
 
