@@ -11,10 +11,10 @@
 ```
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 █                                                           █
-█   A A D I D E V   S O N I                                 █
-█   ─────────────────────────────                           █
-█   Game Engine Dev  ·  Systems Programmer                  █
-█   B.Tech CSE  ·  IIITM Gwalior                            █
+█                A A D I D E V   S O N I                    █
+█             ─────────────────────────────                 █
+█          Game Engine Dev  ·  Systems Programmer           █
+█               B.Tech CSE  ·  IIITM Gwalior                █
 █                                                           █
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
