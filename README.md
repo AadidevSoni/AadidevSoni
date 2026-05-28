@@ -1,178 +1,179 @@
-<h1 align="center">Hi 👋, I'm Aadidev Soni</h1>
-<h3 align="center">
-Game Engine Developer • Systems Programmer • B.Tech CSE @ IIITM Gwalior
-</h3>
+<div align="center">
 
-<p align="center">
-  Building real-time systems, game engines, and full-stack applications.
-</p>
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║        PLAYER ONE HAS ENTERED THE REPOSITORY            ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aadidevsoni&label=Profile%20views&color=0e75b6&style=flat" alt="aadidevsoni" />
-</p>
+# `> AADIDEV SONI`
 
----
+**`GAME ENGINE DEV · SYSTEMS PROGRAMMER · B.TECH CSE @ IIITM GWALIOR`**
 
-# 🚀 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Building+BerryFlux+%E2%80%94+A+C%2B%2B+Game+Engine+from+scratch;OpenGL+%7C+Rendering+Pipelines+%7C+Low-Level+Systems;Game+Dev+%7C+Graphics+%7C+Open+Source;Press+START+to+collaborate+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
-- 🎮 Currently building **BerryFlux — a C++ Game Engine**
-- 🧠 Learning **Game Engine Architecture & Graphics Programming**
-- ⚙️ Interested in **real-time systems, rendering, and engine design**
-- 🌐 Experienced in **Full Stack Development (React + Node.js + MongoDB)**
-- 🤝 Open to collaborate on **game dev / graphics / open-source projects**
-- ⚡ Fun fact: I love **game mechanics, engines, and low-level programming**
+</div>
 
 ---
 
-# 🎮 Current Main Project
+## 🧬 `PLAYER STATS`
 
-## BerryFlux Game Engine
-
-A **C++ real-time game engine built from scratch** to understand how modern engines work internally.
-
-### Core Engine Systems
-
-- Event System & Event Dispatcher
-- Layer & LayerStack Architecture
-- Window System using **GLFW**
-- Application Event Handling
-- Engine–Client Architecture (Engine + Sandbox)
-- Logging System using **spdlog**
-- Cross-platform build system with **CMake**
-
-### Upcoming Features
-
-- OpenGL Renderer
-- Scene Graph
-- Entity Component System (ECS)
-- ImGui Debug Layer
-- Physics Integration
-- Asset Management System
-
-🔗 Repo:  
-https://github.com/AadidevSoni/BerryFlux
+```
+┌─────────────────────────────────────────────────────────────┐
+│  CLASS      │  Engine Developer & Systems Programmer         │
+│  LEVEL      │  3rd Year CS @ IIITM Gwalior                  │
+│  MAIN QUEST │  Build BerryFlux — Open Source C++ Game Engine │
+│  SIDE QUEST │  Full Stack (React · Node.js · MongoDB)        │
+│  FACTION    │  Open Source Guild                             │
+│  STATUS     │  [ ACTIVE ] — Currently grinding C++ & OpenGL  │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-# 🧠 Other Featured Project
+## ⚔️ `SKILL TREE`
 
-## Gamified Mental Health Tracker
+<div align="center">
 
-A **full-stack web platform** that uses **game mechanics to improve mental well-being**.
+| `SYSTEMS` | `WEB` | `TOOLS` |
+|---|---|---|
+| ![C++](https://img.shields.io/badge/C++-MAX-00599C?style=flat-square&logo=cplusplus) | ![React](https://img.shields.io/badge/React-MASTERED-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Git](https://img.shields.io/badge/Git-MASTERED-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-MAX-555555?style=flat-square&logo=c) | ![Node.js](https://img.shields.io/badge/Node.js-MASTERED-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![CMake](https://img.shields.io/badge/CMake-SKILLED-064F8C?style=flat-square&logo=cmake) |
+| ![OpenGL](https://img.shields.io/badge/OpenGL-SKILLED-5586A4?style=flat-square&logo=opengl) | ![MongoDB](https://img.shields.io/badge/MongoDB-SKILLED-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-SKILLED-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![GLFW](https://img.shields.io/badge/GLFW-SKILLED-lightgrey?style=flat-square) | ![TypeScript](https://img.shields.io/badge/TypeScript-SKILLED-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-LEARNING-E87D0D?style=flat-square&logo=blender&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-SKILLED-3776AB?style=flat-square&logo=python&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind-SKILLED-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-SKILLED-FFFFFF?style=flat-square&logo=unity&logoColor=black) |
 
-### Features
-
-- Daily mental health tests
-- SCADS score tracking
-- Gamified progression system
-- Frog & lilypad based mechanics
-- Interactive leaderboard
-
-### Tech Stack
-
-React • Node.js • Express • MongoDB • Redux
-
-🔗 Repo:  
-https://github.com/AadidevSoni/Gamified-Mental-Health-Tracker
+</div>
 
 ---
 
-# 🛠️ Languages & Technologies
+## 🗺️ `ACTIVE QUEST LOG`
 
-## Systems / Game Development
+### 🔴 `[MAIN QUEST]` — BerryFlux Game Engine
+> *An open-source, collaborative, AI-powered C++ game engine. Build games. Ship PRs. Merge ideas.*
 
-C++ • C • OpenGL • GLFW • CMake  
-Game Engine Architecture • Rendering Pipelines  
-Event Systems • Memory Management
+```
+PROGRESS ████████████████████░░░░  78%
 
-## Web Development
+COMPLETED:
+  ✅  Entry Point & Application Lifecycle
+  ✅  Custom Event System (bitmask dispatcher)
+  ✅  Layer & LayerStack Architecture
+  ✅  GLFW Window Abstraction
+  ✅  OpenGL Renderer + API Abstraction
+  ✅  Shader System (asset files + library)
+  ✅  Texture System (stb_image + blending)
+  ✅  2D Batch Renderer (single draw call)
+  ✅  Material & Uniform System
+  ✅  Orthographic Camera Controller
+  ✅  ImGui Integration (docking + viewports)
+  ✅  Custom Smart Pointers (Ref<T> / Scope<T>)
+  ✅  Delta Time & Timesteps
 
-React • Node.js • Express • MongoDB • Redux • TailwindCSS
+IN PROGRESS:
+  🔄  Scene Serialization
+  🔄  Renderer2D Optimization
 
-## Programming Languages
+LOCKED:
+  🔒  Entity Component System (ECS)
+  🔒  Vulkan Backend
+  🔒  Physics Engine
+  🔒  AI Prompt-to-Code System
+  🔒  Open-Source Game Hub Platform
+```
 
-C • C++ • JavaScript • TypeScript • Python • Java • Kotlin • C#
-
-## Tools
-
-Git • Linux • Blender • Unity • Firebase • MySQL
-
----
-
-# 🌍 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/aadidev soni" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/aadidev.2006" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.codechef.com/users/aadidev_soni" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.hackerrank.com/aadidevbahrain" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-</a>
-
-<a href="https://codeforces.com/profile/aadidev" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.leetcode.com/aadidevsoni" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-
-</p>
+🔗 **[`→ ENTER DUNGEON`](https://github.com/AadidevSoni/BerryFlux)**
 
 ---
 
-# 🧰 Languages and Tools
+### 🟡 `[SIDE QUEST]` — Gamified Mental Health Tracker
+> *A full-stack platform using game mechanics to improve mental well-being. Frogs. Lilypads. SCADS scores.*
 
-<p align="left">
+```
+TECH STACK:  React · Node.js · Express · MongoDB · Redux
+FEATURES:    Daily tests · Score tracking · Leaderboard · Gamified progression
+STATUS:      ✅  COMPLETED
+```
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/>
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/>
-
-</p>
+🔗 **[`→ VIEW QUEST`](https://github.com/AadidevSoni/Gamified-Mental-Health-Tracker)**
 
 ---
 
-# 📊 GitHub Stats
+## 📊 `BATTLE STATISTICS`
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aadidevsoni&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aadidevsoni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9"/>
 
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadidevsoni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9"/>
 
-<p align="center">
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadidevsoni&theme=tokyonight"/>
+<div align="center">
 
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadidevsoni&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88"/>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadidevsoni&show_icons=true&layout=compact&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-⭐ **Currently focused on building BerryFlux and understanding how real-time game engines work internally.**
+## 🏆 `ACHIEVEMENT UNLOCKED`
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🥇  "Bootstrapper"    — Built a game engine from scratch   │
+│  🧱  "Architect"       — Designed full layered engine arch  │
+│  🎨  "Renderer"        — Shipped OpenGL + 2D batch renderer  │
+│  🤝  "Guild Founder"   — Opened BerryFlux to the community  │
+│  🌐  "Full Stacker"    — React + Node + MongoDB shipped     │
+│  🎮  "Game Mechanic"   — Gamified a mental health platform  │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🌐 `CONNECT WITH THE PLAYER`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aadidev-soni)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aadidev.2006)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Grind-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aadidevsoni)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Compete-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aadidev)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Solve-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/aadidevbahrain)
+
+</div>
+
+---
+
+## 🤝 `OPEN FOR PARTY INVITE`
+
+```
+Looking to collaborate on:
+  ⚡  Game Engine Development
+  🎨  Graphics Programming (OpenGL / Vulkan)
+  🧠  Low-level Systems & Rendering
+  🌐  Open Source Projects
+
+DM open. PRs welcome. Let's build something.
+```
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   ⭐ STAR A REPO  ·  🔀 FORK THE ENGINE  ·  🤝 PR ME   ║
+║                                                          ║
+║              CONTINUE?    YES  /  NO                     ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+![Profile views](https://komarev.com/ghpvc/?username=aadidevsoni&color=00ff88&style=flat-square&label=PLAYERS+VISITED)
+
+</div>
