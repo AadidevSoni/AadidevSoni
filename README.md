@@ -9,14 +9,14 @@
 <div align="center">
 
 ```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█                                                           █
-█               A A D I D E V   S O N I                     █
-█             ─────────────────────────────                 █
-█          Game Engine Dev  ·  Systems Programmer           █
-█       Open Source Contributor @ Blender  ·  IIITM Gwalior █
-█                                                           █
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+                                     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+                                    █                                                           █
+                                    █               A A D I D E V   S O N I                     █
+                                    █             ─────────────────────────────                 █
+                                    █          Game Engine Dev  ·  Systems Programmer           █
+                                    █       Open Source Contributor @ Blender  ·  IIITM Gwalior █
+                                    █                                                           █
+                                     ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=0A84FF&center=true&vCenter=true&width=650&lines=Open+Source+Developer+%40+Blender;Building+BerryFlux+%E2%80%94+An+open-source+C%2B%2B+Game+Engine;Graphics+Programming+%7C+Real-Time+Rendering+%7C+Low-Level+Systems;Open+to+collaborate+on+game+dev+%26+open-source)](https://git.io/typing-svg)
