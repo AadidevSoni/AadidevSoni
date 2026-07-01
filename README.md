@@ -8,20 +8,16 @@
 
 <div align="center">
 
-```
-                                     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-                                    █                                                           █
-                                    █               A A D I D E V   S O N I                     █
-                                    █             ─────────────────────────────                 █
-                                    █          Game Engine Dev  ·  Systems Programmer           █
-                                    █       Open Source Contributor @ Blender  ·  IIITM Gwalior █
-                                    █                                                           █
-                                     ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=0A84FF&center=true&vCenter=true&width=650&lines=Open+Source+Developer+%40+Blender;Building+BerryFlux+%E2%80%94+An+open-source+C%2B%2B+Game+Engine;Graphics+Programming+%7C+Real-Time+Rendering+%7C+Low-Level+Systems;Open+to+collaborate+on+game+dev+%26+open-source)](https://git.io/typing-svg)
-
-[![Blender Dev Profile](https://img.shields.io/badge/Blender-Developer_Profile-E87D0D?style=for-the-badge&logo=blender&logoColor=white)](https://projects.blender.org/Aadidev-Soni)
+<pre>
+ ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█                                                           █
+█               A A D I D E V   S O N I                     █
+█             ─────────────────────────────                 █
+█          Game Engine Dev · Systems Programmer             █
+█      Open Source Contributor @ Blender · IIITM Gwalior    █
+█                                                           █
+ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+</pre>
 
 </div>
 
@@ -46,9 +42,9 @@ open_to:    Collaborations on game dev · Graphics · Open-source projects
 
 I contribute to **Blender**, working primarily in the core codebase around materials, Grease Pencil, and object data integrity.
 
-### 🩹 [Fix #160789: Crash when moving Grease Pencil material slot with invalid active material index](https://projects.blender.org/blender/blender/pulls/160798)
+### [Fix #160789: Crash when moving Grease Pencil material slot with invalid active material index](https://projects.blender.org/blender/blender/pulls/160798)
 
-**Status:** ✅ Merged into `blender-v5.2-release` by [Brecht Van Lommel](https://projects.blender.org/brecht) · `+39 −27` across 4 files
+**Status:** Merged into `blender-v5.2-release` by [Brecht Van Lommel](https://projects.blender.org/brecht) · `+39 −27` across 4 files
 
 <details>
 <summary><strong>Summary</strong></summary>
