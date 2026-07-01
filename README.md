@@ -23,6 +23,11 @@
 
 <br/>
 
+<div align="center">
+ 
+[![Blender Developer Profile](https://img.shields.io/badge/Blender-Developer_Profile-E87D0D?style=flat-square&logo=blender&logoColor=white)](https://projects.blender.org/Aadidev-Soni)
+</div>
+
 ---
 
 ## `// ABOUT`
