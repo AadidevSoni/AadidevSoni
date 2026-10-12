@@ -1,46 +1,49 @@
 # Hi, I'm Aadidev Soni 👋
 
-Systems programmer & game engine enthusiast studying at **IIITM Gwalior**.  
-Currently focused on **C++**, **graphics rendering**, and contributing to open-source systems.
+Systems programmer & open-source contributor studying at **IIITM Gwalior**.  
+Focused on **C++**, **graphics rendering**, and core open-source systems.
 
 ---
 
-### 🛠️ What I'm Working On
+### 🌟 Open Source @ Blender
 
-- **[Blender](https://projects.blender.org/Aadidev-Soni)** — Contributing to core Blender (C/C++), focusing on materials, Grease Pencil, and data integrity.
-- **[BerryFlux](https://github.com/AadidevSoni/BerryFlux)** — A modular 2D/3D game engine in C++17 featuring an OpenGL batch renderer, custom shader pipeline, profiling suite, and ImGui tooling.
-- Preparing for **LFX Mentorship** across systems and open-source infrastructure.
+Active contributor to **[Blender](https://projects.blender.org/Aadidev-Soni)** (C/C++), working across core data structures, mesh operators, nodes, and interface architecture.
 
----
+#### Key Merged Contributions:
 
-### 🌟 Notable Open Source Contributions
+| Subsystem | Pull Request | Impact |
+| :--- | :--- | :--- |
+| **Core / Materials** | [**#160798**](https://projects.blender.org/blender/blender/pulls/160798) | Fixed out-of-bounds crash in `BLI_array_permute()` by sanitizing invalid 0-indexed material slots into a shared `blenkernel` helper. *(Merged into `blender-v5.2-release` by Brecht Van Lommel)* |
+| **Mesh / Modeling** | [**#163184**](https://projects.blender.org/blender/blender/pulls/163184) | Resolved mesh corruption bug where symmetrize duplicated isolated vertices. |
+| **Nodes & Physics** | [**#163390**](https://projects.blender.org/blender/blender/pulls/163390) | Added warning status indicators directly into collapsed node headers in the Node Editor. |
+| **Interface / Core** | [**#164136**](https://projects.blender.org/blender/blender/pulls/164136) | Prevented application crash triggered when renaming panel toggle inputs. |
+| **UI Widgets** | [**#163950**](https://projects.blender.org/blender/blender/pulls/163950) | Resolved double emboss rendering bug on numeric value sliders. |
+| **UI Rendering** | [**#163741**](https://projects.blender.org/blender/blender/pulls/163741) | Fixed incorrect text selection opacity and contrast in UI list items. |
+| **Grease Pencil** | [**#161023**](https://projects.blender.org/blender/blender/pulls/161023) | Improved diagnostics and user error reporting on tool fill failures. |
 
-#### [Blender](https://projects.blender.org/blender/blender)
-- **[PR #160798: Fix crash when moving Grease Pencil material slot](https://projects.blender.org/blender/blender/pulls/160798)**  
-  *Merged into `blender-v5.2-release` by Brecht Van Lommel*  
-  Identified out-of-bounds memory corruption caused by invalid 0-indexed material slots. Refactored the cleanup routine into a shared core helper (`BKE_object_material_remove_unused`) in `blenkernel` and added load-time sanitization for malformed blend files.
+> 🔗 Full upstream activity & patches: **[projects.blender.org/Aadidev-Soni](https://projects.blender.org/Aadidev-Soni)**
 
 ---
 
 ### 💻 Key Projects
 
-| Project | Description | Tech Stack |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[BerryFlux](https://github.com/AadidevSoni/BerryFlux)** | Real-time C++17 engine featuring layer-based architecture, event dispatcher, custom memory wrappers (`Ref<T>` / `Scope<T>`), OpenGL batch rendering, and Chrome trace profiling. | C++17, OpenGL, GLFW, GLM, CMake |
-| **[Gamified Mental Health Tracker](https://github.com/AadidevSoni/Gamified-Mental-Health-Tracker)** | Interactive web app translating clinical SCADS assessments into gamified progression milestones and interactive visualizations. | React, Node.js, Express, MongoDB |
+| **[BerryFlux](https://github.com/AadidevSoni/BerryFlux)** | Real-time C++17 game engine built from scratch. Features an OpenGL batch renderer, event dispatcher, custom memory wrappers (`Ref<T>` / `Scope<T>`), and Chrome trace profiling. | C++17, OpenGL, GLFW, GLM, CMake |
+| **[Gamified Mental Health Tracker](https://github.com/AadidevSoni/Gamified-Mental-Health-Tracker)** | Interactive web app applying game mechanics and milestone tracking to clinical SCADS assessments. | React, Node.js, Express, MongoDB |
 
 ---
 
-### 🧰 Core Technical Focus
+### 🧰 Technical Skills
 
-- **Systems & Languages:** C, C++ (C++17/20), Python, POSIX/Linux
-- **Graphics & Low-Level:** OpenGL, GLFW, GLM, Shader pipelines, Memory & Batching
-- **Build & Profiling:** CMake, Make, Git, Chrome Tracing, GDB/LLDB
+- **Languages:** C, C++ (C++17/20), Python, POSIX shell
+- **Systems & Graphics:** OpenGL, GLFW, GLM, Linux APIs, Batch Rendering, Memory Layouts
+- **Tooling & Profiling:** CMake, Git, GDB/LLDB, Chrome Tracing, Valgrind
 
 ---
 
 ### 📬 Connect
 
-- **Blender Dev:** [projects.blender.org/Aadidev-Soni](https://projects.blender.org/Aadidev-Soni)
+- **Blender Profile:** [projects.blender.org/Aadidev-Soni](https://projects.blender.org/Aadidev-Soni)
 - **LinkedIn:** [linkedin.com/in/aadidev-soni](https://linkedin.com/in/aadidev-soni)
 - **Competitive Programming:** [LeetCode](https://leetcode.com/aadidevsoni) · [Codeforces](https://codeforces.com/profile/aadidev)
